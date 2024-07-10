@@ -55,7 +55,4 @@ In this Power BI project, I developed a detailed sales management report for Tec
 
 ---
 
-## 📂 **Folder Structure**
-
-Here’s a quick overview of the folder structure for each project:
 
