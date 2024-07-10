@@ -25,5 +25,5 @@ Superstore is a forward-thinking company that aims to maintain a strong presence
 - **Budget Allocation Recommendations:** Suggestions on how to distribute the marketing budget.
 - **Products to Eliminate:** Identifies products with low sales and negative profit.
 
-Additional Insights
+### Additional Insights
 Based on the business's trust in our expertise, additional visualizations have been included to provide further insights. These may include customer demographics, product category performance, and regional sales breakdowns. An optional second dashboard has also been created to dive deeper into specific areas of interest or to analyze other pertinent information.
