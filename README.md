@@ -23,13 +23,9 @@ In this Power BI project, I developed a detailed sales management report for Tec
 
 #### **🔍 Key Features**
 - **Monthly Sales Analysis:** Visualize sales trends, discounts, and price effects.
-
 - **Units Sold by City:** Analyze the sales distribution across Italian cities.
-
 - **Detailed Product Information:** Explore metrics for individual product performance.
-
 - **Store Performance Analysis:** Examine sales and performance metrics for different stores.
-
 - **Net Sales Report:** Analyze sales data excluding returns.
 
 ---
@@ -47,11 +43,8 @@ In this Tableau project, I developed a sophisticated dashboard for Superstore, a
 
 #### **🔍 Key Features**
 - **Sales Over Time:** Analyze trends and fluctuations in sales data.
-  
 - **Profit by Country:** Visualize profit distribution across European countries.
-
 - **Quantity Shipped by Shipping Class:** Evaluate the volume of products shipped through different classes.
-
 - **Marketing Budget Optimization:** Analyze product performance to guide budget decisions.
 
 ---
