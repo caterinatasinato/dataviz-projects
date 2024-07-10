@@ -1,6 +1,6 @@
-# 📊 Data Visualization Projects: Tableau & Power BI
+# 📊 Data Viz Projects: Tableau & Power BI
 
-Welcome to the **Data Visualization Projects** repository! 🌟  
+Welcome to the **Data Visualization Projects** repository! 🌟
 This repository showcases two advanced projects where I utilized Tableau and Power BI to drive data-driven decision-making and business optimization. Each project demonstrates different aspects of data analysis and visualization, offering insights and strategic recommendations based on real-world data.
 
 Feel free to explore the dashboards and reports to see how I approached these challenges and developed effective solutions!
