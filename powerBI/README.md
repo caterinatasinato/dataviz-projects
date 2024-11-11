@@ -44,21 +44,6 @@ Develop a Power BI report featuring the following pages and visualizations:
 - **Bookmarks:** Create at least one bookmark for easier navigation.
 - **Navigation Buttons:** Add buttons to make the report navigable between different pages.
 
-## 🛠️ How to Use the Power BI Report
-
-1. **Download the Files:**
-   - [DATI Folder](#) – Contains sales data files.
-   - [DATI NEGOZI Folder](#) – Contains store information, product details, and provinces data.
-   - [RESI File](#) – Contains return data for January and February 2014.
-
-2. **Load Data into Power BI:**
-   - Import the `DATI` folder files and `DATI NEGOZI` folder files.
-   - Perform necessary transformations and merge the data.
-
-3. **Build the Report:**
-   - Create visualizations based on the specified requirements for each page.
-   - Add a bookmark and navigation buttons.
-
 4. **Calculate Net Sales:**
    - Use the `RESI` file to calculate and visualize sales excluding returns for January and February.
 
